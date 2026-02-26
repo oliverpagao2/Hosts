@@ -33,8 +33,11 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 netflix.com
 0.0.0.0 www.netflix.com
-0.0.0.0 .netflix.com
+0.0.0.0 *.netflix.com\*
 0.0.0.0 disneyplus.com
-
+0.0.0.0 www.apps.disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 *.disneyplus.com\*
 
 # blacklist
+
